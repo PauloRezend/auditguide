@@ -10,4 +10,5 @@ Would you like to find me?
 Youtube Badge  Badge Linkedin Badge
 
 
-Copywrite 2023 by https://techguide.sh/
+Licensed under the
+MIT License 2023 by https://techguide.sh/
