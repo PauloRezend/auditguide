@@ -1,11 +1,11 @@
 {
-  "name": "Nome do Guia",
+  "name": "Saúde",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
+          "name": "Health Service",
           "description": "Descrição do Cartão",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
@@ -48,7 +48,7 @@
   ],
   "collaborations": [
     {
-      "name": "Lado Esquerdo do T",
+      "name": "Food Service",
       "cards": [
         {
           "name": "Nome do Cartão Customizado Lateral ESQ",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "Lado Direito do T",
+      "name": "Drugs Service",
       "cards": []
     }
   ]
