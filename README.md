@@ -7,7 +7,7 @@ My name is Paulo Rezende, and I'm from Brazil (🇧🇷). I've been studying as 
 
 Would you like to find me?
 
-Youtube Badge Linkedin Badge
+![image](https://github.com/PauloRezend/auditguide/assets/22872627/f01a8586-c2cc-4575-b53a-847804a48c67) Linkedin Badge
 
 
 Licensed under the
