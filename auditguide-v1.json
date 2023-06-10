@@ -1,5 +1,5 @@
 {
-  "name": "AuditGuia",
+  "name": "Nome do Guia",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
@@ -11,13 +11,13 @@
           "contents": [
             {
               "type": "SITE",
-              "title": "Atuação da Vigilância Sanitária",
-              "link": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/1993/prt1428_26_11_1993.html"
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
             }
           ]
         },
         {
-          "id": "inspection-fundamentals"
+          "id": "nodejs-fundamentals"
         }
       ]
     },
@@ -31,7 +31,7 @@
           "contents": [
             {
               "type": "SITE",
-              "title": "Inspeção em Serviços de Saúde",
+              "title": "Node.js - Documentation",
               "link": "https://nodejs.dev/en/learn/"
             }
           ]
