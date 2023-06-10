@@ -3,11 +3,11 @@ Aqui você poderá mapear as necessidades mais comuns de cada Auditor-Visa, dire
 
 "Olá pessoas!" \o/ 👋
 
-My name is Paulo Rezende, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2006. Actually I study as a Full Stack Developer at Cod3r Cursos.:)
+My name is Paulo Rezende, and I'm from Brazil (🇧🇷). I've been studying as Back-End Developer since 2006. Actually I study as a Full Stack Developer at Cod3r Cursos.:)
 
 Would you like to find me?
 
-Youtube Badge  Badge Linkedin Badge
+Youtube Badge Linkedin Badge
 
 
 Licensed under the
